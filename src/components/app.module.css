@@ -1,0 +1,11 @@
+.container {
+  width: max-content;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: rgb(80, 80, 80);
+  margin-bottom: 15px;
+}

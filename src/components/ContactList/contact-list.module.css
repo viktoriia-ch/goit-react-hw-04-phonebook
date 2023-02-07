@@ -1,0 +1,19 @@
+.list {
+  margin-left: 20px;
+}
+
+.item {
+  padding-top: 10px;
+}
+
+.btn {
+  margin-left: 5px;
+  border-radius: 2px;
+  background-color: #008080;
+  border: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+}
+
+.btn:hover {
+  background-color: #006666;
+}
